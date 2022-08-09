@@ -6,7 +6,9 @@ version := "1"
 
 scalaVersion := "3.2.0-RC3"
 
-scalacOptions := Seq()
+scalacOptions := Seq(
+  "-coverage-out:foo"
+)
 
 libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.2.13" % Test,
