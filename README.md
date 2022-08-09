@@ -1,1 +1,1 @@
-# scala-scoverage-error
+# scala-coverage-error
