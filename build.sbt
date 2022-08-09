@@ -1,4 +1,4 @@
-name := "scala-scoverage-error"
+name := "scala-coverage-error"
 
 organization := "sss"
 
